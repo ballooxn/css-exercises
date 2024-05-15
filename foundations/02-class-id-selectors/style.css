@@ -1,0 +1,16 @@
+.main {
+  background-color: rgb(238, 53, 83);
+  font-family: "Verdana", "DejaVu Sans", "serif";
+}
+#second {
+  color: #1a56c5;
+  font-size: 36px;
+}
+#third {
+  font-size: 24px;
+}
+#fourth {
+  background-color: #38db4e;
+  font-size: 24px;
+  font-weight: bold;
+}
